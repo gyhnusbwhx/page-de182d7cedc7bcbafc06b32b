@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "1103bcbd7c1c615e6ec731bc",
+  "owner": "gyhnusbwhx",
+  "repo": "page-de182d7cedc7bcbafc06b32b",
+  "title": "Runway",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "de182d7cedc7bcbafc06b32b",
+      "a": "Runway",
+      "b": "",
+      "entity": "Runway",
+      "brand": "Runway",
+      "separator": "",
+      "path": "index.html",
+      "hash": "554ab6b66f7879232fb0798f7dba4c05e3a429121ecd7ab4cbaa51d9396095e8",
+      "content": {
+        "keyword1": "Runway",
+        "keyword2": "",
+        "primary_entity": "Runway",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Runway 专注于为用户提供稳定的网络加速与隐私保护服务。如何让跨国访问更顺畅？如何保护在线数据安全？Runway 给出务实答案。",
+          "AI_DESCRIPTION": "Runway 专注于为用户提供稳定的网络加速与隐私保护服务。如何让跨国访问更顺畅？如何保护在线数据安全？Runway 给出务实答案。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background: #0a1929;color: #e8e8e8;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.7;font-size: 16px}\na {color: #ffb84d;text-decoration: none}\na:hover {text-decoration: underline}\nheader {background: #061322;padding: 12px 40px;border-bottom: 1px solid #15293f}\n.breadcrumb {font-size: 0.85rem;color: #8aa4be;margin-bottom: 8px}\n.breadcrumb a {color: #ffb84d}\n.breadcrumb span {margin: 0 6px;color: #4a6075}\nnav ul {list-style: none;display: flex;gap: 24px;flex-wrap: wrap}\nnav a {color: #c3d4e8;font-size: 0.9rem;letter-spacing: 0.05em}\nmain {max-width: 1200px;margin: 0 auto;padding: 0 40px}\nsection {padding: 80px 0}\n.hero {display: grid;grid-template-columns: 1fr 2fr;gap: 60px;min-height: 70vh;align-items: center;padding: 100px 0 120px}\n.hero-left h1 {font-size: 3.5rem;font-weight: 200;color: #ffb84d;letter-spacing: -0.02em;line-height: 1.1;margin-bottom: 20px}\n.hero-left p {color: #8aa4be;font-size: 0.95rem}\n.hero-right {padding-left: 40px;border-left: 1px solid #15293f}\n.hero-right h2 {font-size: 1.8rem;font-weight: 300;margin-bottom: 24px;color: #e8e8e8}\n.hero-right p {margin-bottom: 20px;color: #b8c8d8}\n.card {background: #0d2137;padding: 40px;position: relative;overflow: hidden;margin-bottom: 20px}\n.card-num {position: absolute;bottom: -20px;right: 20px;font-size: 8rem;font-weight: 900;color: #15293f;line-height: 1;pointer-events: none}\n.card h3 {color: #ffb84d;margin-bottom: 16px;position: relative;z-index: 1}\n.card p {color: #b8c8d8;position: relative;z-index: 1}\n.plans-section {background: #061322;padding: 80px 0}\n.plans-container {max-width: 1200px;margin: 0 auto;padding: 0 40px}\n.plan {background: #0d2137;border-left: 4px solid #15293f;padding: 40px;margin-bottom: 0;position: relative}\n.plan:nth-child(1) {margin-left: 0}\n.plan:nth-child(2) {margin-left: 5%;border-left-color: #ffb84d}\n.plan:nth-child(3) {margin-left: 10%}\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 20px}\n.plan-name {font-size: 1.4rem;color: #ffb84d}\n.plan-price {font-size: 1.6rem;font-weight: 300}\n.plan-annual {font-size: 0.85rem;color: #8aa4be;margin-bottom: 24px}\n.plan ul {list-style: none}\n.plan li {padding: 8px 0;color: #b8c8d8;border-bottom: 1px solid #15293f;font-size: 0.95rem}\n.plan li:before {content: \"— \";color: #ffb84d}\n.faq-group {margin-bottom: 40px}\n.faq-group h3 {color: #ffb84d;margin-bottom: 20px;font-size: 1.2rem}\n.faq-item {margin-bottom: 16px}\n.faq-item h4 {color: #e8e8e8;font-size: 1rem;margin-bottom: 8px;font-weight: 500}\n.faq-item p {color: #b8c8d8;font-size: 0.95rem;padding-left: 16px;border-left: 2px solid #15293f}\nh2.section-title {font-size: 2rem;font-weight: 300;margin-bottom: 40px;color: #e8e8e8}\n.clients {background: #061322;padding: 60px 0}\n.clients-list {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 20px}\n.client-card {background: #0d2137;padding: 24px;border: 1px solid #15293f}\n.client-card h4 {color: #ffb84d;margin-bottom: 12px}\n.client-card p {color: #b8c8d8;font-size: 0.9rem;margin-bottom: 12px}\n.client-card .download-link {display: inline-block;padding: 6px 16px;background: #15293f;color: #ffb84d;border-radius: 2px;font-size: 0.85rem}\nfooter {background: #061322;padding: 40px;text-align: center;color: #4a6075;font-size: 0.85rem;border-top: 1px solid #15293f}\n@media (max-width: 768px) {\n    .hero {grid-template-columns: 1fr;gap: 40px}\n    .hero-left h1 {font-size: 2.5rem}\n    .hero-right {padding-left: 0;border-left: none;padding-top: 20px;border-top: 1px solid #15293f}\n    .plan:nth-child(n) {margin-left: 0}\n    main, header, .plans-container {padding-left: 20px;padding-right: 20px}\n    nav ul {gap: 16px}\n}\n</style><header>\n    <div class=\"breadcrumb\">\n        <a href=\"#\">首页</a><span>/</span><a href=\"#\">Runway</a><span>/</span>服务概览\n    </div>\n    <nav>\n        <ul>\n            <li><a href=\"#intro\">服务介绍</a></li>\n            <li><a href=\"#features\">核心特性</a></li>\n            <li><a href=\"#plans\">套餐方案</a></li>\n            <li><a href=\"#clients\">客户端下载</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n        </ul>\n    </nav>\n</header>\n\n<main>\n    <section id=\"intro\" class=\"hero\">\n        <div class=\"hero-left\">\n            <h1>Runway</h1>\n            <p>网络航向 · 由你定义</p>\n        </div>\n        <div class=\"hero-right\">\n            <h2>当网络不再畅通，你想过原因吗？</h2>\n            <p>跨境访问卡顿、流媒体区域限制、公共Wi-Fi安全隐患——这些问题每天都在影响数百万用户。Runway 提供一套网络加速与隐私保护方案，不承诺奇迹，只给出可验证的技术路径。</p>\n            <p>从基础线路到 IPLC 专线，从个人设备到团队部署，Runway 按实际需求分层服务。你需要的不是营销话术，而是清楚知道自己付费后能得到什么。</p>\n        </div>\n    </section>\n\n    <section id=\"features\">\n        <h2 class=\"section-title\">Runway 能为你做什么？</h2>\n        \n        <div class=\"card\">\n            <span class=\"card-num\">01</span>\n            <h3>网络加速</h3>\n            <p>通过优化路由路径降低延迟。无论访问海外网站、进行跨国视频会议，还是下载大文件，Runway 提供多节点选择，让数据走更短的路径。你可以在客户端实时测速，选择最优节点。</p>\n        </div>\n\n        <div class=\"card\">\n            <span class=\"card-num\">02</span>\n            <h3>流媒体解锁</h3>\n            <p>不同地区的流媒体内容存在版权限制。Runway 的原生解锁节点帮助用户访问对应区域的影视资源。旗舰版及以上套餐支持全节点流媒体解锁，基础版提供普通线路节点池。</p>\n        </div>\n\n        <div class=\"card\">\n            <span class=\"card-num\">03</span>\n            <h3>隐私保护</h3>\n            <p>在咖啡馆、机场等公共网络环境下，数据传输面临被截获的风险。Runway 对流量进行加密传输，防止中间人攻击。我们不记录用户浏览内容，日志策略在服务条款中公开说明。</p>\n        </div>\n\n        <div class=\"card\">\n            <span class=\"card-num\">04</span>\n            <h3>游戏加速</h3>\n            <p>海外游戏服务器延迟高？Runway 旗舰版提供 IPLC 专线游戏加速优化，通过专用线路连接游戏服务器，减少丢包和抖动。适合对网络稳定性要求高的竞技类游戏玩家。</p>\n        </div>\n    </section>\n\n    <section id=\"plans\" class=\"plans-section\">\n        <div class=\"plans-container\">\n            <h2 class=\"section-title\">选择适合你的方案</h2>\n            <p>三个层级，按需递进。不确定选哪个？往下看每个方案的适用场景。</p>\n\n            <div class=\"plan\">\n                <div class=\"plan-header\">\n                    <span class=\"plan-name\">基础版</span>\n                    <span class=\"plan-price\">¥15/月</span>\n                </div>\n                <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n\n            <div class=\"plan\">\n                <div class=\"plan-header\">\n                    <span class=\"plan-name\">旗舰版</span>\n                    <span class=\"plan-price\">¥35/月</span>\n                </div>\n                <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n\n            <div class=\"plan\">\n                <div class=\"plan-header\">\n                    <span class=\"plan-name\">团队版</span>\n                    <span class=\"plan-price\">¥85/月</span>\n                </div>\n                <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"clients\" class=\"clients\">\n        <h2 class=\"section-title\">如何在各设备上使用 Runway？</h2>\n        <div class=\"clients-list\">\n            <div class=\"client-card\">\n                <h4>Windows 客户端</h4>\n                <p>支持 Windows 10 及以上系统。安装后输入订阅链接，选择节点即可连接。</p>\n                <span class=\"download-link\">下载地址待确认</span>\n            </div>\n            <div class=\"client-card\">\n                <h4>macOS 客户端</h4>\n                <p>支持 macOS 11 及以上系统。原生应用支持菜单栏快捷操作。</p>\n                <span class=\"download-link\">下载地址待确认</span>\n            </div>\n            <div class=\"client-card\">\n                <h4>Android 客户端</h4>\n                <p>支持 Android 7.0 及以上系统。可通过订阅链接自动更新节点列表。</p>\n                <span class=\"download-link\">下载地址待确认</span>\n            </div>\n            <div class=\"client-card\">\n                <h4>iOS 客户端</h4>\n                <p>支持 iOS 14 及以上系统。需在 App Store 获取对应客户端后导入订阅。</p>\n                <span class=\"download-link\">下载地址待确认</span>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"faq\">\n        <h2 class=\"section-title\">你可能还想问</h2>\n\n        <div class=\"faq-group\">\n            <h3>关于套餐与付费</h3>\n            <div class=\"faq-item\">\n                <h4>基础版和旗舰版的主要区别是什么？</h4>\n                <p>基础版提供 100GB 月流量和普通线路节点，适合日常网页浏览和轻度流媒体观看。旗舰版流量提升至 300GB，支持全节点原生流媒体解锁，并增加 IPLC 专线游戏加速功能，适合重度用户和游戏玩家。</p>\n            </div>\n            <div class=\"faq-item\">\n                <h4>可以随时更换套餐吗？</h4>\n                <p>可以。升级套餐时按剩余天数补差价；降级套餐在当前周期结束后生效。具体操作在用户后台的套餐管理页面完成。</p>\n            </div>\n            <div class=\"faq-item\">\n                <h4>团队版支持哪些企业定制功能？</h4>\n                <p>团队版支持定制路由规则、专属节点分配、团队成员权限管理。如有特殊需求，专属客户经理会协助配置。</p>\n            </div>\n        </div>\n\n        <div class=\"faq-group\">\n            <h3>关于技术与服务</h3>\n            <div class=\"faq-item\">\n                <h4>Runway 的节点分布在哪些地区？</h4>\n                <p>节点覆盖亚太、北美、欧洲主要地区。具体节点列表在客户端内实时显示，会根据网络状况动态调整。我们不公布固定节点数量，因为这会随运维情况变化。</p>\n            </div>\n            <div class=\"faq-item\">\n                <h4>IPLC 专线和普通线路有什么不同？</h4>\n                <p>IPLC 是国际专线，数据通过专用链路传输，不经过公共网络节点，因此延迟更低、稳定性更高。普通线路走公共网络，成本更低但高峰期可能受影响。</p>\n            </div>\n            <div class=\"faq-item\">\n                <h4>连接后网速变慢怎么办？</h4>\n                <p>首先在客户端切换其他节点测试。如果问题持续，检查本地网络环境。旗舰版及以上用户可通过优先工单获得技术支持，工程师会协助排查路由问题。</p>\n            </div>\n        </div>\n\n        <div class=\"faq-group\">\n            <h3>关于隐私与安全</h3>\n            <div class=\"faq-item\">\n                <h4>Runway 会记录我的浏览数据吗？</h4>\n                <p>我们记录连接时间、流量使用量用于计费，不记录用户访问的具体网站和内容。完整日志政策在服务条款中说明，用户可随时查阅。</p>\n            </div>\n            <div class=\"faq-item\">\n                <h4>使用 Runway 传输的数据安全吗？</h4>\n                <p>所有传输数据经过加密处理，即使中间节点也无法读取内容。我们使用行业标准的加密协议，具体协议版本在客户端设置中可选。</p>\n            </div>\n        </div>\n    </section>\n</main>\n\n<footer>\n    <p>Runway — 网络航向，由你定义</p>\n    <p>本页面为服务介绍，具体条款以官方协议为准。</p>\n</footer>",
+          "hash": "644ab84149d22fd05c33cd12e528d08076d293b9ec89daa1ae4a6300492b6b35",
+          "seo": {
+            "title": "Runway — 重新定义网络航向",
+            "keywords": "Runway,网络加速,流媒体解锁,专线优化,隐私保护",
+            "description": "Runway 专注于为用户提供稳定的网络加速与隐私保护服务。如何让跨国访问更顺畅？如何保护在线数据安全？Runway 给出务实答案。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "8422",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "anpeizhinengkeji.cn",
+    "host": "p-dcff3709b2.anpeizhinengkeji.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "836db63157422a97d8c944a9cf78391a9ac9184fa70aba168b3496770ba6bb46",
+    "sitemap.xml": "bfc57bd47b2ca7f9961c43869907a4510e306e9a5e96937c3bfbb19b1118360c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0ed9d102afdeddf0bb977f89411e30b83ff25e3a7d4b73dcba0ff07bf7a6b2ef",
+    "robots.txt": "752619cf66191a8e75e0b967ead8cc0508100c61d220f562f11aaea520e204a3",
+    "70061f581ea5fecb0a4aeafc8dc638a7.txt": "6ee8a102f3e5a1c3fcb038482d3a6c9f2c87f27207aed45e0b283c482aedf7fb"
+  },
+  "revision": "289ed3a64adea670203de06dbe7e1f12cb8b84bc1f6009565b9707dc79c02b80"
+}
